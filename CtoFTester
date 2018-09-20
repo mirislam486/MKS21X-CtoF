@@ -1,0 +1,9 @@
+public int CtoF(int c, int f){
+  f = ((c*9)/5)+32
+  system.println(f)
+}
+
+public int FtoC(int f, int c){
+  c = ((5*(f - 32))/9)
+  system.println(c) 
+}
